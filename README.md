@@ -1,0 +1,2 @@
+# EmoContext-Real-Time-Multimodal-Emotion-Recognition-with-Contextual-Awareness
+EmoContext is a real-time multimodal emotion recognition system that fuses facial expressions, vocal tone, and text sentiment using a Transformer-based fusion architecture. It tracks emotional states across time using a contextual memory window, enabling detection of emotion transitions rather than just isolated predictions.
